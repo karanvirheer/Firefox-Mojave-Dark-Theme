@@ -44,10 +44,5 @@
       "ntp_background": "#1a2334",
       "ntp_card_background": "#4d586e"
     }
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "strict_min_version": "55.0a2"
-    }
   }
 }
