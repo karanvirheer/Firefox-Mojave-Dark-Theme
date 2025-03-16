@@ -1,0 +1,53 @@
+{
+  "description": "MacOS inspired Mojave Dark theme.",
+  "homepage_url": "https://github.com/karanvirheer/Firefox-Mojave-Dark-Theme",
+  "manifest_version": 2,
+  "name": "MacOS Mojave Dark Theme",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "mojave_night.png"
+    },
+    "colors": {
+      "icons": "#efedeb",
+
+      "icons_attention": "#FF0",
+
+      "bookmark_text": "#efedeb",
+
+      "tab_background_text": "#efedeb",
+      "tab_loading": "#efedeb",
+      "tab_selected": "#1a2334",
+
+      "popup": "#1a2334",
+      "popup_highlight": "#1a2334",
+      "popup_highlight_text": "#efedeb",
+      "popup_text": "#efedeb",
+      "popup_border": "#efedeb",
+
+      "toolbar": [0, 0, 0, 0],
+      "toolbar_field_text": "#efedeb",
+      "toolbar_field_text_focus": "#efedeb",
+      "toolbar_field": "#4d586e",
+      "toolbar_field_border": "#495261",
+      "toolbar_field_border_focus": "#efedeb",
+      "toolbar_field_focus": "#4d586e",
+      "toolbar_field_highlight": "#efedeb",
+      "toolbar_field_highlight_text": "#1a2334",
+
+      "sidebar": "#1a2334",
+      "sidebar_border": "#efedeb",
+      "sidebar_text": "#efedeb",
+      "sidebar_highlight": "#4d586e",
+      "sidebar_highlight_text": "#efedeb",
+
+      "ntp_background": "#1a2334",
+      "ntp_card_background": "#4d586e"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "55.0a2"
+    }
+  }
+}
