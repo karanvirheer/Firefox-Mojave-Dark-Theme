@@ -3,7 +3,7 @@
   "homepage_url": "https://github.com/karanvirheer/Firefox-Mojave-Dark-Theme",
   "manifest_version": 2,
   "name": "MacOS Mojave Dark Theme",
-  "version": "1.0",
+  "version": "1.1",
   "theme": {
     "images": {
       "theme_frame": "mojave_night.png"
