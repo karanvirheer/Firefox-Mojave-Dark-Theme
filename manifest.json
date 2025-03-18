@@ -6,7 +6,7 @@
   "version": "1.1",
   "theme": {
     "images": {
-      "theme_frame": "mojave_night.png"
+      "theme_frame": "mojave_night.svg"
     },
     "colors": {
       "icons": "#efedeb",
