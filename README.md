@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">Mojave Dark Theme</h3>
   <a href="https://github.com/karanvirheer/Recyclops">
-    <img src="mojave_night_readme.png" alt="Logo">
+    <img src="mojave_night_README.png" alt="Logo">
   </a>
 
   <p align="center">
